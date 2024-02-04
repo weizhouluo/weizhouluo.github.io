@@ -48,7 +48,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 900px
+max_width: 800px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -102,7 +102,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-The best way to contact me is via <a href = "mailto: weizhou.luo@tu-dresden.de">email</a>.
+#The best way to contact me is via <a href = "mailto: weizhou.luo@tu-dresden.de">email</a>.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
