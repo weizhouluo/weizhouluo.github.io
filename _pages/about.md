@@ -6,7 +6,7 @@ subtitle: <a href='https://imld.de/en/'>Interactive Media Lab Dresden</a>, PhD S
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: weizhouluo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>2045, APB</p>
