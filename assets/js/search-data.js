@@ -25,6 +25,9 @@ ninja.data = [{
           section: "News",},{id: "news-present-our-chi2025-paper-at-german-pre-chi-in-siegen-germany",
           title: 'Present our #CHI2025 paper at German Pre-CHI in Siegen, Germany.',
           description: "",
+          section: "News",},{id: "news-present-our-workshop-paper-at-chi2025-beyond-glasses-future-directions-for-xr-interactions-within-the-physical-world-let-s-catch-up",
+          title: 'Present Our Workshop Paper at #CHI2025 Beyond Glasses: Future Directions for XR Interactions...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
