@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Present Our Workshop Paper at #CHI2025 <a href="https://sites.google.com/view/xr-phy-2025">Beyond Glasses: Future Directions for XR Interactions within the Physical World</a>. Let’s catch up!
+Present at #CHI2025 Workshop on <a href="https://sites.google.com/view/xr-phy-2025">XR Interactions within
+the Physical World</a>. Let’s catch up!
