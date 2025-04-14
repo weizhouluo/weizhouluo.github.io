@@ -45,6 +45,7 @@ I have been involved in teaching various Human-Computer Interaction and Data Vis
   <li><b>User Interface Engineering</b> (WS 2024/2025)</li>
   <li><b>Interactive Multimedia Technologies Seminar</b> (WS 2020/2021, WS 2023/2024)</li>
 </ul>
+In Advanced User Interfaces, I also gave or will give lectures independently on the topic of 3D & Spatial Interaction (SS 2024, SS 2025).
 
 Previously, I also worked as a teaching associate at Sun Yat-sen University:
 
@@ -57,7 +58,7 @@ Previously, I also worked as a teaching associate at Sun Yat-sen University:
 
 ### 🎓 Thesis Supervision
 
-I have supervised and co-supervised 14 theses, exploring themes such as augmented reality, immersive analytics, multimodal interaction, and hybrid displays.
+I have supervised and co-supervised <b>14 theses</b>, exploring themes such as augmented reality, immersive analytics, multimodal interaction, and hybrid displays.
 
 #### Diploma Theses (2)
 
