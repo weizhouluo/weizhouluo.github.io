@@ -27,6 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a 5th year PhD student at the <a href='https://imld.de/en/'> Interactive Media Lab</a>, Technische Universität Dresden, under the guidance of Professor <a href='https://imld.de/en/our-group/team/raimund-dachselt/'> Raimund Dachselt</a>. My research focuses on applying mixed and augmented reality to support data exploration, interaction, and sensemaking.
+I’m a 5th-year PhD student at the <a href='https://imld.de/en/'> Interactive Media Lab</a>, Technische Universität Dresden, supervised by Professor <a href='https://imld.de/en/our-group/team/raimund-dachselt/'> Raimund Dachselt</a>. My research focuses on applying mixed and augmented reality to support data exploration, interaction, and sensemaking.
 
-I'm currently focusing on my dissertation, `Exploring Spatial Organization Strategies for Virtual Content in Mixed Reality Environments` (working title), where I investigate the spatiality of immersive technology, particularly, how and where to place virtual content like documents with the consideration of situated context.
+Currently, I’m working on my dissertation, `Exploring Spatial Organization Strategies for Virtual Content in Mixed Reality Workspaces` (working title). In it, I investigate the spatiality of immersive technologies, particularly how and where to place virtual content (such as documents) with a focus on situated context.
+
+Outside of research, I love street photography and visiting art museums. I’m especially drawn to exhibition curation, industrial design, and architecture. At my core, I’m fascinated by the intricacies of how artifacts mediate and shape our relationships—both with each other and with the environment.
+
+Feel free to reach out if you’d like to discuss anything related to my research or my interests. I’m always open to new and exciting collaborations!
