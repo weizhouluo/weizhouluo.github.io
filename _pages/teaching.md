@@ -37,7 +37,7 @@ Beyond reviewing, I am engaged in community service and academic event organizat
 
 ### 📚 Teaching Experience
 
-I have been involved in teaching various Human-Computer Interaction and Data Visualization courses at Technische Universität Dresden:
+I have been involved as a teaching assistant in various Human-Computer Interaction and Data Visualization courses at Technische Universität Dresden:
 
 <ul>
   <li><b>Advanced User Interfaces</b> (SS 2021, SS 2022, SS 2023, SS 2024, SS 2025)</li>
