@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-services",
+          title: "services",
+          description: "An overview of my academic services, including community involvement, teaching activities, and thesis supervision.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "news-our-chi2025-paper-has-been-accpeted-see-you-in-japan",
           title: 'Our #CHI2025 paper has been accpeted. See you in Japan!',
           description: "",
