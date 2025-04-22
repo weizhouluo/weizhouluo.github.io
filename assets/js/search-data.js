@@ -35,8 +35,8 @@ ninja.data = [{
           section: "News",},{id: "news-present-at-chi2025-workshop-on-xr-interactions-within-the-physical-world-let-s-catch-up",
           title: 'Present at #CHI2025 Workshop on XR Interactions within the Physical World. Let’s catch...',
           description: "",
-          section: "News",},{id: "news-present-our-chi2025-paper-on-tuesday-9-36-am-xr-session-g302",
-          title: 'Present our #CHI2025 paper on Tuesday       9:36 AM       XR session (G302).',
+          section: "News",},{id: "news-present-our-chi2025-paper-on-tuesday-9-36-am-at-xr-session-g302",
+          title: 'Present our #CHI2025 paper on Tuesday, 9:36 AM at XR session (G302).',
           description: "",
           section: "News",},{
         id: 'social-email',
