@@ -15,7 +15,8 @@ I contribute to the HCI research community as a reviewer and program committee f
 <ul>
   <li><b>CHI</b>: 4× Full Papers (2023, 2024, 2025)</li>
   <li><b>CHI LBW</b>: 12× (2024, 2025 as AC)</li>
-  <li><b>IJHCS</b>: 1×</li>
+  <li><b>UIST</b>: 1× (2025)</li>
+  <li><b>IJHCS</b>: 1× (2024)</li>
   <li><b>ISS</b>: 2× (2022)</li>
   <li><b>MuC</b>: 2× Short Papers (2024)</li>
 </ul>
