@@ -21,7 +21,7 @@ I contribute to the HCI research community as a reviewer and program committee f
   <li><b>MuC</b>: 2× Short Papers (2024)</li>
 </ul>
 
-⭐ <i>CHI Special Recognition for Outstanding Reviews</i> (2023 & 2024)
+⭐ <i>Special Recognition for Outstanding Reviews</i> (CHI 2023, CHI 2024, UIST 2025)
 
 
 ### 🙋‍♂️ Volunteering & Organization
@@ -59,7 +59,7 @@ Previously, I also worked as a teaching associate at Sun Yat-sen University:
 
 ### 🎓 Thesis Supervision
 
-I have supervised and co-supervised <b>14 theses</b>, exploring themes such as augmented reality, immersive analytics, multimodal interaction, and hybrid displays.
+I have supervised and co-supervised <b>15 theses</b>, exploring themes such as augmented reality, immersive analytics, multimodal interaction, and hybrid displays.
 
 #### Diploma Theses (2)
 
@@ -90,9 +90,12 @@ I have supervised and co-supervised <b>14 theses</b>, exploring themes such as a
   Concepts for Interactively Exploring Information Flow and Design Options of Knowledge-Based Systems</li>
 </ul>
 
-#### Bachelor’s Theses (7)
+#### Bachelor’s Theses (8)
 
 <ul>
+  <li><b>Dieter Dreßler (2025)</b><br>
+  Investigating the Level of Immersion for Collaborative Immersive Analytics</li>
+
   <li><b>Benjamin Bogatsch (2025)</b><br>
   Exploring Interaction Techniques for Collaborative Mixed Reality Ideation Workspaces</li>
 
