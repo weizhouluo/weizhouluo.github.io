@@ -46,7 +46,7 @@ I have been involved as a teaching assistant in various Human-Computer Interacti
   <li><b>User Interface Engineering</b> (WS 2024/2025)</li>
   <li><b>Interactive Multimedia Technologies Seminar</b> (WS 2020/2021, WS 2023/2024)</li>
 </ul>
-In Advanced User Interfaces, I also gave or will give lectures independently on the topic of 3D & Spatial Interaction (SS 2024, SS 2025).
+In Advanced User Interfaces, I also gave lectures independently on the topic of 3D & Spatial Interaction (SS 2024, SS 2025).
 
 Previously, I also worked as a teaching associate at Sun Yat-sen University:
 
@@ -59,7 +59,7 @@ Previously, I also worked as a teaching associate at Sun Yat-sen University:
 
 ### 🎓 Thesis Supervision
 
-I have supervised and co-supervised <b>15 theses</b>, exploring themes such as augmented reality, immersive analytics, multimodal interaction, and hybrid displays.
+I have supervised and co-supervised <b>16 theses</b>, exploring themes such as augmented reality, immersive analytics, multimodal interaction, and hybrid displays.
 
 #### Diploma Theses (2)
 
@@ -93,6 +93,9 @@ I have supervised and co-supervised <b>15 theses</b>, exploring themes such as a
 #### Bachelor’s Theses (8)
 
 <ul>
+  <li><b>Weiyi Lyu (2025)</b><br>
+  Exploring AI-Augmented Data Storytelling Creation</li>
+  
   <li><b>Dieter Dreßler (2025)</b><br>
   Investigating the Level of Immersion for Collaborative Immersive Analytics</li>
 
