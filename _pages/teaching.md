@@ -90,7 +90,7 @@ I have supervised and co-supervised <b>16 theses</b>, exploring themes such as a
   Concepts for Interactively Exploring Information Flow and Design Options of Knowledge-Based Systems</li>
 </ul>
 
-#### Bachelor’s Theses (8)
+#### Bachelor’s Theses (9)
 
 <ul>
   <li><b>Weiyi Lyu (2025)</b><br>
