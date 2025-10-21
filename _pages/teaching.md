@@ -13,7 +13,7 @@ nav_order: 6
 I contribute to the HCI research community as a reviewer and program committee for top-tier conferences and journals.
 
 <ul>
-  <li><b>CHI</b>: 4× Full Papers (2023, 2024, 2025)</li>
+  <li><b>CHI</b>: 8× Full Papers (2023, 2024, 2025, 2026)</li>
   <li><b>CHI LBW</b>: 12× (2024, 2025 as AC)</li>
   <li><b>UIST</b>: 1× (2025)</li>
   <li><b>IJHCS</b>: 1× (2024)</li>
@@ -44,7 +44,7 @@ I have been involved as a teaching assistant in various Human-Computer Interacti
   <li><b>Advanced User Interfaces</b> (SS 2021, SS 2022, SS 2023, SS 2024, SS 2025)</li>
   <li><b>Data Visualization</b> (WS 2020/2021, WS 2021/2022, WS 2022/2023)</li>
   <li><b>User Interface Engineering</b> (WS 2024/2025)</li>
-  <li><b>Interactive Multimedia Technologies Seminar</b> (WS 2020/2021, WS 2023/2024)</li>
+  <li><b>Interactive Multimedia Technologies Seminar</b> (WS 2020/2021, WS 2023/2024, WS 2025/2026)</li>
 </ul>
 In Advanced User Interfaces, I also gave lectures independently on the topic of 3D & Spatial Interaction (SS 2024, SS 2025).
 
@@ -59,7 +59,7 @@ Previously, I also worked as a teaching associate at Sun Yat-sen University:
 
 ### 🎓 Thesis Supervision
 
-I have supervised and co-supervised <b>16 theses</b>, exploring themes such as augmented reality, immersive analytics, multimodal interaction, and hybrid displays.
+I have supervised and co-supervised <b>18 theses</b>, exploring themes such as augmented reality, immersive analytics, multimodal interaction, and hybrid displays.
 
 #### Diploma Theses (2)
 
@@ -71,14 +71,20 @@ I have supervised and co-supervised <b>16 theses</b>, exploring themes such as a
   Combining Augmented Reality and Mobile Devices for the Immersive Exploration of Medical Data Visualizations</li>
 </ul>
 
-#### Master’s Theses (5)
+#### Master’s Theses (7)
 
 <ul>
+  <li><b>Julie Lucia Hildebrandt (2025)</b><br>
+  Designing for Multi-View Immersive Presentations: Visibility and Perspective Management in Augmented Reality</li>
+
   <li><b>Sivanon Visutarporn (2024)</b><br>
   Design and Development of Co-Located Immersive Presentation in Augmented Reality</li>
 
   <li><b>Mark Abdelaziz (2023)</b><br>
   Design and Development of Visual Structures of Data-Driven Storytelling in Immersive Environments</li>
+
+  <li><b>Hjalmar Widengren (2023)</b><br>
+  Placement Perception and Augmented Reality in An Office Setting - A Qualitative User Study</li>
 
   <li><b>Mats Ole Ellenberg (2022)</b><br>
   Exploring Layout and Placement Strategies for Augmented Reality Visualization in Immersive Environments</li>
