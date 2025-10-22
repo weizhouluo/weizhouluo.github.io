@@ -27,10 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a final-year PhD student at the <a href='https://imld.de/en/'> Interactive Media Lab</a>, Technische Universität Dresden, supervised by Professor <a href='https://imld.de/en/our-group/team/raimund-dachselt/'> Raimund Dachselt</a>. My research focuses on applying mixed and augmented reality to support data exploration, interaction, and sensemaking.
+I’m a final-year PhD student at the <a href='https://imld.de/en/'> Interactive Media Lab</a>, Technische Universität Dresden, supervised by Professor <a href='https://imld.de/en/our-group/team/raimund-dachselt/'> Raimund Dachselt</a>. My research explores how mixed and augmented reality can support data exploration, interaction, sensemaking, and storytelling.
 
-Currently, I’m working on my dissertation, `Exploring Spatial Organization Strategies for Virtual Content in Mixed Reality Workspaces`. In it, I investigate the spatiality of immersive technologies, particularly how and where to place virtual content (such as documents) with a focus on situated context.
+I’m currently writing my dissertation, `Exploring Spatial Organization Strategies for Virtual Content in Mixed Reality Workspaces`. It examines the spatiality of immersive technologies, especially where and how to place virtual content (e.g., documents) in situated contexts.
 
-Outside of research, I love street photography and visiting art museums. I’m especially drawn to exhibition curation, industrial design, and architecture. At my core, I’m fascinated by the intricacies of how artifacts mediate and shape our relationships—both with each other and with the environment.
+Outside research, I love indoor bouldering (especially dynos), street photography, and visiting contemporary and classic art museums. I’m particularly drawn to exhibition curation, industrial design, and architecture. At my core, I’m fascinated by how artifacts mediate and shape our relationships—both with each other and with the environment.
 
-Feel free to reach out if you’d like to discuss anything related to my research or my interests. I’m always open to new and exciting collaborations!
+I split my time between Dresden and Berlin. If any of this resonates, feel free to reach out! I’m always happy to grab a coffee, swap ideas, and explore new collaborations.
