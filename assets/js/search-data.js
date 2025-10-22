@@ -16,12 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-services",
-          title: "services",
-          description: "An overview of my academic services, including community involvement, teaching activities, and thesis supervision.",
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "teaching portfolio and thesis supervision, including roles at TU Dresden and earlier experience at Sun Yat-sen University.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-services",
+          title: "services",
+          description: "community and scholarly service, including program committees, peer review, volunteering, and organization.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/services/";
           },
         },{id: "news-our-chi2025-paper-has-been-accpeted-see-you-in-japan",
           title: 'Our #CHI2025 paper has been accpeted. See you in Japan!',
