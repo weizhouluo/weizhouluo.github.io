@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our #CHI2025 paper has been accpeted. See you in Japan!
+Our #CHI2025 paper has been accepted. See you in Japan!

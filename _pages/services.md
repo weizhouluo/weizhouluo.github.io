@@ -9,7 +9,7 @@ nav_order: 7
 
 ### 🧭 Program Committees
 
-I am honor to serve as an associate chair (AC, program committee member) to help shape the field.
+I’m honored to serve as an associate chair (AC, program committee member) to help shape the field.
 <ul>
   <li><b>ACM CHI Late-Breaking Work</b> (2025)</li>
 </ul>
@@ -19,7 +19,7 @@ I am honor to serve as an associate chair (AC, program committee member) to help
 Since 2022 I regularly review for top-tier conferences and journals across HCI and visualization.
 <ul>
   <li><b>ACM CHI</b> x8 (2023, 2024, 2025, 2026)</li>
-  <li><b>ACN CHI Late-Breaking Work</b> x12 (2024; 2025 as AC)</li>
+  <li><b>ACM CHI Late-Breaking Work</b> x12 (2024; 2025 as AC)</li>
   <li><b>ACM UIST</b> x1 (2025)</li>
   <li><b>IJHCS</b> x1 (2024)</li>
   <li><b>ACM ISS</b> x2 (2022)</li>
