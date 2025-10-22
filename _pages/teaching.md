@@ -1,65 +1,35 @@
 ---
 layout: page
 permalink: /teaching/
-title: services
-description: An overview of my academic services, including community involvement, teaching activities, and thesis supervision.
+title: teaching
+description: teaching portfolio and thesis supervision, including roles at TU Dresden and earlier experience at Sun Yat-sen University.
 nav: true
 nav_order: 6
 ---
 
-
-### ✍️ Academic Reviewing
-
-I contribute to the HCI research community as a reviewer and program committee for top-tier conferences and journals.
-
-<ul>
-  <li><b>CHI</b>: 8× Full Papers (2023, 2024, 2025, 2026)</li>
-  <li><b>CHI LBW</b>: 12× (2024, 2025 as AC)</li>
-  <li><b>UIST</b>: 1× (2025)</li>
-  <li><b>IJHCS</b>: 1× (2024)</li>
-  <li><b>ISS</b>: 2× (2022)</li>
-  <li><b>MuC</b>: 2× Short Papers (2024)</li>
-</ul>
-
-⭐ <i>Special Recognition for Outstanding Reviews</i> (CHI 2023, CHI 2024, UIST 2025)
-
-
-### 🙋‍♂️ Volunteering & Organization
-
-Beyond reviewing, I am engaged in community service and academic event organization within the HCI community.
-
-<ul>
-  <li><b>Student Volunteer</b>: CHI (2022), Chinese CHI (2017)</li>
-  <li><b>Co-Organizer</b>: German Per-CHI (2023)</li>
-  <li><b>Proposal Contributor</b>: Center for Perspicuous Computing (CPEC, DFG – Phase Two)</li>
-</ul>
-
----
-
 ### 📚 Teaching Experience
 
-I have been involved as a teaching assistant in various Human-Computer Interaction and Data Visualization courses at Technische Universität Dresden:
+I primarily serve as a **teaching assistant** across Human–Computer Interaction and Data Visualization courses at Technische Universität Dresden, supporting exercise design, grading, and mentoring. In addition, I **independently delivered lectures** on the topic of **3D & Spatial Interaction** within Advanced User Interfaces during **SS 2024** and **SS 2025**.
 
 <ul>
   <li><b>Advanced User Interfaces</b> (SS 2021, SS 2022, SS 2023, SS 2024, SS 2025)</li>
   <li><b>Data Visualization</b> (WS 2020/2021, WS 2021/2022, WS 2022/2023)</li>
   <li><b>User Interface Engineering</b> (WS 2024/2025)</li>
-  <li><b>Interactive Multimedia Technologies Seminar</b> (WS 2020/2021, WS 2023/2024, WS 2025/2026)</li>
+  <li><b>Interactive Multimedia Technologies (Seminar)</b> (WS 2020/2021, WS 2023/2024, WS 2025/2026)</li>
 </ul>
-In Advanced User Interfaces, I also gave lectures independently on the topic of 3D & Spatial Interaction (SS 2024, SS 2025).
 
-Previously, I also worked as a teaching associate at Sun Yat-sen University:
+Previously, I was a **teaching associate** at Sun Yat-sen University, where I co-designed assignments and facilitated live sessions:
 
 <ul>
-  <li><i>New Media and User Research</i> (Mar. 2018 – Jul. 2018)</li>
-  <li><i>Media Co-Design</i> (Sep. 2017 – Jan. 2018)</li>
+  <li><b>New Media and User Research</b> (Mar. 2018 – Jul. 2018)</li>
+  <li><b>Media Co-Design</b> (Sep. 2017 – Jan. 2018)</li>
 </ul>
 
 ---
 
 ### 🎓 Thesis Supervision
 
-I have supervised and co-supervised <b>18 theses</b>, exploring themes such as augmented reality, immersive analytics, multimodal interaction, and hybrid displays.
+My supervision and co-supervision span **24 theses** across augmented reality, immersive analytics, multimodal interaction, and hybrid displays. I aim to mentor students through the full HCI research pipeline, from requirement elicitation and design concepts to prototyping and evaluation.
 
 #### Diploma Theses (2)
 
@@ -121,10 +91,31 @@ I have supervised and co-supervised <b>18 theses</b>, exploring themes such as a
   Traceability of Design Decisions via Interactive Visualization in Immersive Environments</li>
 
   <li><b>Laura Tobisch (2022)</b><br>
-  Trajectory Analysis with Info Visualizations as Labels in AR  [🏅Best Thesis with Technische Visualistik Award]</li>
+  Trajectory Analysis with Info Visualizations as Labels in AR  [🏅<i>Best Thesis with Technische Visualistik Award</i>]</li>
 
   <li><b>Jingyan Xiedu (2021)</b><br>
   Authoring AR Visualizations with Mobile Devices</li>
+</ul>
+
+#### Student Research Project Theses (6)
+<ul>
+  <li><b>Timur Gildeev (2025)</b><br>
+  Exploring What-If Scenarios in Immersive Data Stories</li>
+  
+  <li><b>Lea Meding (2023)</b><br>
+  Crafting and Designing Data-Driven Storytelling in Immersive Environments</li>
+
+  <li><b>Mark Abdelaziz (2023)</b><br>
+  User-guided Immersive Storytelling</li>
+
+  <li><b>Xiao Cui (2021)</b><br>
+  Support for Evaluation of Content Arrangement During Affinity Diagramming in Collaborative Multi-display Environments</li>
+
+  <li><b>Yushan Yang (2021)</b><br>
+  Support for Evaluation of Content Arrangement During Affinity Diagramming in Collaborative AR Environments </li>
+
+  <li><b>Dennis Dimov (2020)</b><br>
+  Visualizing Model Checking Results of Hyperproperties and Information Flow</li>
 </ul>
 
 ---
