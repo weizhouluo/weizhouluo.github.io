@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/services/";
           },
-        },{id: "news-our-chi2025-paper-has-been-accpeted-see-you-in-japan",
-          title: 'Our #CHI2025 paper has been accpeted. See you in Japan!',
+        },{id: "news-our-chi2025-paper-has-been-accepted-see-you-in-japan",
+          title: 'Our #CHI2025 paper has been accepted. See you in Japan!',
           description: "",
           section: "News",},{id: "news-serve-as-lbw-program-committee-associate-chair-at-chi2025",
           title: 'Serve as LBW program committee/associate chair  at #CHI2025.',
