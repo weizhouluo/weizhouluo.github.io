@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
+title: immersive storytelling
 description: another without an image
 img:
-importance: 3
-category: fun
+importance: 1
+category: work
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.

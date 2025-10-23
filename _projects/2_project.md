@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
+title: spatial interaction
 description: a project with a background image and giscus comments
 img: assets/img/3.jpg
-importance: 2
+importance: 1
 category: work
-giscus_comments: true
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.

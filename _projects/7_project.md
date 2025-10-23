@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 7
+title: photography
 description: with background image
 img: assets/img/4.jpg
 importance: 1
-category: work
+category: 
 related_publications: true
 ---
 
