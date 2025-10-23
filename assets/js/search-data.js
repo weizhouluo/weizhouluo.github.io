@@ -45,7 +45,42 @@ ninja.data = [{
           section: "News",},{id: "news-present-our-chi2025-paper-on-tuesday-9-36-am-at-xr-session-g302",
           title: 'Present our #CHI2025 paper on Tuesday, 9:36 AM at XR session (G302).',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-spatial-content-organization",
+          title: 'spatial content organization',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-spatial-interaction",
+          title: 'spatial interaction',
+          description: "a project with a background image and giscus comments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
+            },},{id: "projects-immersive-analytics",
+          title: 'immersive analytics',
+          description: "a project that redirects to another website",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
+            },},{id: "projects-immersive-storytelling",
+          title: 'immersive storytelling',
+          description: "another without an image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
+            },},{id: "projects-hybrid-user-interfaces",
+          title: 'hybrid user interfaces',
+          description: "a project with a background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
+            },},{id: "projects-bouldering",
+          title: 'bouldering',
+          description: "a project with no image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
+            },},{id: "projects-photography",
+          title: 'photography',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
