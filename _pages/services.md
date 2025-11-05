@@ -26,7 +26,7 @@ Since 2022 I regularly review for top-tier conferences and journals across HCI a
   <li><b>ACM MuC Short Papers</b> x2 (2024)</li>
 </ul>
 
-⭐ <i>Special Recognition for Outstanding Reviews</i> (CHI 2023, CHI 2024, UIST 2025)
+⭐ <i>Special Recognition for Outstanding Reviews</i> (CHI 2023, CHI 2024, UIST 2025, CHI 2026)
 
 
 ### 🙋‍♂️ Volunteering & Organization
