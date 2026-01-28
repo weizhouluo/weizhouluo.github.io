@@ -29,7 +29,7 @@ Previously, I was a **teaching associate** at Sun Yat-sen University, where I co
 
 ### 🎓 Thesis Supervision
 
-My supervision and co-supervision span **24 theses** across augmented reality, immersive analytics, multimodal interaction, and hybrid displays. I aim to mentor students through the full HCI research pipeline, from requirement elicitation and design concepts to prototyping and evaluation.
+My supervision and co-supervision span **25 theses** across augmented reality, immersive analytics, multimodal interaction, and hybrid displays. I aim to mentor students through the full HCI research pipeline, from requirement elicitation and design concepts to prototyping and evaluation.
 
 #### Diploma Theses (2)
 
@@ -41,10 +41,13 @@ My supervision and co-supervision span **24 theses** across augmented reality, i
   Combining Augmented Reality and Mobile Devices for the Immersive Exploration of Medical Data Visualizations</li>
 </ul>
 
-#### Master’s Theses (7)
+#### Master’s Theses (8)
 
 <ul>
-  <li><b>Julie Lucia Hildebrandt (2025)</b><br>
+  <li><b>Jacques-Maurice Walther (2026)</b><br>
+  Investigating Visual Cues for Associating Views to Physical Referents in Mixed Reality</li>
+  
+  <li><b>Julie Lucia Hildebrandt (2026)</b><br>
   Designing for Multi-View Immersive Presentations: Visibility and Perspective Management in Augmented Reality</li>
 
   <li><b>Sivanon Visutarporn (2024)</b><br>
