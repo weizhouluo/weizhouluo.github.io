@@ -11,8 +11,8 @@ nav_order: 7
 
 I’m honored to serve as an associate chair (AC, program committee member) to help shape the field.
 <ul>
-  <li><b>ACM CHI Late-Breaking Work</b> (2025)</li>
   <li><b>ACM CHI Poster</b> (2026)</li>
+  <li><b>ACM CHI Late-Breaking Work</b> (2025)</li>
 </ul>
 
 ### ✍️ Academic Reviewing
